@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=debugP1
+comment0.text=\r\n\ Write\ a\ description\ of\ debugP1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=input
+comment1.target=void\ findAbc(java.lang.String)
+comment1.text=public\ void\ bc_check(String\ line){\r\n\ \ \ \ \ \ \ \ //finds\ each\ occurence\ of\ "bc_"\ in\ a\ string\ input.\ prints\ "bc_"\ for\ each\ occurence\r\n\ \ \ \ \ \ \ \ //character\ _\ represents\ any\ character\ value.\ \r\n\ \ \ \ \ \ \ \ String\ bc\ \=\ "bc";\r\n\ \ \ \ \ \ \ \ int\ index;\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ line\ \=\ line.toLowerCase();\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ while(true){\r\n\ \ \ \ \ \ \ \ \ \ \ \ index\ \=\ line.indexOf(bc);\r\n\ \ \ \ \ \ \ \ \ \ \ \ if(index\ \=\=\ -1)\ break;\ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n}
+comment2.params=
+comment2.target=void\ test()
+comment3.params=arg
+comment3.target=void\ main(java.lang.String[])
+numComments=4
