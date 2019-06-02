@@ -1,8 +1,10 @@
-/*
- * Lesson1_main.cc
- *  Created on: Mar 3, 2019
- *      Author: User
- */
+//============================================================================
+// Name        : Assignment.cpp
+// Author      : Matthew Mak
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Assignment 1 -- coursera
+//============================================================================
 
 #include <iostream>
 #include <vector>
