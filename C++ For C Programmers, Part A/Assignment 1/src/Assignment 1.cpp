@@ -26,8 +26,7 @@ int main() {
 		v1.push_back(i);
 
 	sum(&accum, N, v1);
-
-	std::cout << "Total Sum: " << accum << endl;
+	cout << "Total Sum: " << accum << endl;
 	return 0;
 }
 
